@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
               <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white font-bold text-lg">
                 F
               </div>
-              <span className="text-xl font-bold text-white">FiStudy</span>
+              <span className="text-xl font-bold text-white">Rakiful_Tech</span>
             </div>
             <p className="text-sm leading-relaxed mb-6">
               Empowering learners worldwide with accessible, high-quality education. Join our community and start your journey today.
@@ -63,14 +63,14 @@ export const Footer: React.FC = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-primary-500 flex-shrink-0" />
-                <span>support@fistudy.com</span>
+                <span>support@Rakiful_Tech.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
-          <p>&copy; 2024 FiStudy. All rights reserved.</p>
+          <p>&copy; 2024 Rakiful_Tech. All rights reserved.</p>
           <div className="mt-4 md:mt-0">
              <span className="text-slate-500">Designed with ❤️ by Engineering Team</span>
           </div>

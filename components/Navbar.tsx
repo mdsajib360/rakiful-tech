@@ -13,7 +13,7 @@ export const Navbar: React.FC = () => {
             <div className="w-10 h-10 bg-primary-600 rounded-lg flex items-center justify-center text-white font-bold text-xl">
               F
             </div>
-            <span className="text-2xl font-bold text-gray-900">FiStudy</span>
+            <span className="text-2xl font-bold text-gray-900">Rakiful_Tech</span>
           </div>
 
           {/* Desktop Navigation */}

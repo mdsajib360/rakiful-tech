@@ -17,7 +17,7 @@ export const Hero: React.FC = () => {
                 <span className="block text-primary-600 xl:inline">Define Your Future</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                FiStudy provides world-class education for everyone. Master new skills in design, coding, marketing, and more with our expert-led courses.
+                Rakiful_Tech provides world-class education for everyone. Master new skills in design, coding, marketing, and more with our expert-led courses.
               </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start gap-4">
                 <div className="rounded-md shadow">

@@ -6,7 +6,7 @@ import { ChatMessage } from '../types';
 export const AIChatWidget: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<ChatMessage[]>([
-    { role: 'model', text: 'Hi! I\'m your FiStudy AI Tutor. Need help finding a course or studying?' }
+    { role: 'model', text: 'Hi! I\'m your Rakiful_Tech AI Tutor. Need help finding a course or studying?' }
   ]);
   const [inputText, setInputText] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -82,7 +82,7 @@ export const AIChatWidget: React.FC = () => {
                 <Sparkles size={18} />
             </div>
             <div>
-              <h3 className="font-bold text-sm">FiStudy AI Tutor</h3>
+              <h3 className="font-bold text-sm">Rakiful_Tech AI Tutor</h3>
               <p className="text-xs text-primary-100">Powered by Gemini</p>
             </div>
           </div>
